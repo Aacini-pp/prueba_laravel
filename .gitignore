@@ -1,0 +1,12 @@
+HolaMundo/node_modules
+HolaMundo/public/hot
+HolaMundo/public/storage
+HolaMundo/storage/*.key
+HolaMundo/vendor
+
+.env.backup
+.phpunit.result.cache
+Homestead.json
+Homestead.yaml
+npm-debug.log
+yarn-error.log
